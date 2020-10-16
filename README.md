@@ -1,1 +1,2 @@
 # go-programming
+This project contains GoLang exercises created by Todd McLeod for the Udemy course "Learn How To Code: Google's Go (golang) Programming Language" and my answers to the exercises. I've added them to github to contiue working with git.
